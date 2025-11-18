@@ -7,6 +7,11 @@ Insights into product performance, aiding in inventory and marketing decisions.
 Informed pricing and margin strategies for improved profitability.
 Actionable recommendations for optimizing sales and profit across various dimensions. 
 
+## Data set used
+This is Adidas deta with aroun 10,000data from from kaggal deta set
+link to kagal
+https://www.kaggle.com/datasets/heemalichaudhari/adidas-sales-dataset
+
 ## KPI's (Key Point Indicators)
 1. Total Sales Analysis:
 Understand the overall sales performance of Adidas over time.
