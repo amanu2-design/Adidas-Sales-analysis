@@ -33,20 +33,34 @@ Analyze the sales distribution among various Adidas products using a bar chart.
 Visualize the contribution of different retailers to total sales using a bar chart.
 
 ## Summary
+## Intractive Dashboard
 
+https://app.powerbi.com/view?r=eyJrIjoiZTI4ZTgyNTktZmIxMS00YjNjLWJhMTUtZDA0NDI2NGUzM2UzIiwidCI6IjQzZjc5MDgyLTRlNTgtNDY2Yi1iZGJjLTIxZDFhNTQwYzQ1MCJ9
 ### Overall
 The Adidas Sales Dashboard highlights a strong overall performance across 2020–2021, with $900M in total sales, $332M operating profit, and $2M units sold, supported by a healthy 42.3% operating margin. The average selling price of $45 indicates consistent value capture across product lines and regions.
+
+<img width="945" height="143" alt="Overall" src="https://github.com/user-attachments/assets/3fb80545-0f5f-47a2-ad64-74a4a71bbea2" />
 
 ### Monthly 
 Monthly trends show a mid-year peak, with sales rising steadily from March and reaching their highest levels in July and August, driven by seasonal demand and product launches. A slight decline occurs toward year-end before a recovery in December.
 
+<img width="532" height="186" alt="sale by month" src="https://github.com/user-attachments/assets/492bbcd5-3c3c-449e-9b28-574c1148fe5d" />
+
 ### Reginally 
 Regionally, the West region leads with $270M (30%), followed by the Midwest and Southeast. This signals stronger brand presence and distribution efficiency in western territories.
+
+<img width="307" height="197" alt="Sales by region" src="https://github.com/user-attachments/assets/cf7be185-b4fa-42a2-b00d-5d86d2002566" />
 
 ### Product
 Product-wise, Men’s Street Footwear is the top performer at $209M, followed by Women’s Apparel and Men’s Athletic Footwear. Shoes dominate total revenue, showing that footwear remains the brand’s core revenue engine.
 
+<img width="318" height="195" alt="Sales by product" src="https://github.com/user-attachments/assets/da7415d0-cc31-43f5-8c5f-ed0764f4a968" />
+
 ### Retail
 At the retail level, West Gear and Foot Locker generate the highest sales, reinforcing the importance of key retail partners. Meanwhile, Amazon and Walmart deliver meaningful but smaller volumes, representing opportunities for digital expansion.
+
+<img width="319" height="197" alt="Sales by retail" src="https://github.com/user-attachments/assets/74904fb8-97d7-49a5-9a8f-d482ca4bd773" />
+
+
 
 
